@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @niikkkhiil
-- 👀 I’m interested in Blockchain application, Cloud Computing, Startups... 
-- 🌱 I’m currently learning GCP Infrastructure as a Service
-- 💞️ I’m looking to collaborate on... 
+- 👀 I’m interested in Mchine Learning, Cloud Computing, Startups, AI... 
+- 🌱 I’m currently learning GCP, TensorFlow and Data Analysis
+- 💞️ I’m looking to collaborate 
 - 📫 How to reach me email at nikhilganorkar0@gmail.com
 
 <!---
