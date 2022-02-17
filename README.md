@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @niikkkhiil
-- 👀 I’m interested in Mchine Learning, Cloud Computing, Startups, AI... 
-- 🌱 I’m currently learning GCP, TensorFlow and Data Analysis
+- 👀 I’m interested in Mchine Learning, Cloud Computing, AI, Computer Vision
+- 🌱 I’m currently learning GCP, TensorFlow and Data Science
 - 💞️ I’m looking to collaborate 
 - 📫 How to reach me email at nikhilganorkar0@gmail.com
 
