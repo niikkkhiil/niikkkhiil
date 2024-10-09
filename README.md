@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nikhil Ganorkar
 - 👀 I’m interested in Data Science and Analytics 
-- 🌱 I’m currently learning GCP, TensorFlow and Data Science
+- 🌱 I’m currently learning GCP,AWS SageMaker, TensorFlow and Data Science
 - 💞️ I’m looking to collaborate 
 - 📫 How to reach me email at nikhilganorkar0@gmail.com, https://www.linkedin.com/in/nikhil-ganorkar-48351a191/
 
