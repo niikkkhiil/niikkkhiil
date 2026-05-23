@@ -37,7 +37,7 @@
 ```python
 class AIEngineer:
     """
-    Building autonomous systems where AI agents
+    Autonomous systems where AI agents
     monitor, diagnose, and fix infrastructure themselves.
     """
 
@@ -94,6 +94,42 @@ class AIEngineer:
 **Stack:** `Python` `CrewAI` `Groq (Llama 3.3 70B)` `FAISS` `Langfuse` `MCP` `Docker` `GitHub Actions`
 
 [**→ Explore the repo**](https://github.com/niikkkhiil/Orchestrating_agent)
+
+---
+
+## ✅ Recently Shipped
+
+<table>
+<tr>
+<td width="50%">
+
+🛡️ **Self-Healing DevOps Agent**
+Multi-agent system with CrewAI + FAISS + Langfuse. Fully Dockerised with CI/CD pipeline to Docker Hub.
+[View on GitHub →](https://github.com/niikkkhiil/Orchestrating_agent)
+
+</td>
+<td width="50%">
+
+📊 **Customer Insights Platform**
+K-Means + DBSCAN segmentation on 100k+ records, deployed on AWS ECS. 25% campaign performance improvement.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+☁️ **Self-Service RDS Provisioning**
+Terraform + Step Functions automation reducing AWS RDS setup time from hours to under 5 minutes.
+
+</td>
+<td width="50%">
+
+🎙️ **AI Prompt-to-Voice Assistant**
+Gemini LLM + Chatterbox TTS pipeline for real-time speech synthesis with custom voice profiles.
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -166,14 +202,14 @@ class AIEngineer:
 
 ---
 
-## 🎯 What I'm Building Right Now
+## 🎯 My Focus Areas
 
 <table>
 <tr>
 <td width="50%">
 
 🤖 **Autonomous Agents**
-Multi-agent systems that self-diagnose and remediate infrastructure failures without human intervention.
+Multi-agent systems for self-diagnosing and remediating infrastructure failures without human intervention.
 
 🧠 **LLM Observability**
 Production tracing with Langfuse — every agent decision, every token, every latency measurement.
