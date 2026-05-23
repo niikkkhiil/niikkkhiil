@@ -3,19 +3,12 @@
   <img src="https://komarev.com/ghpvc/?username=niikkkhiil&label=%F0%9F%91%81%EF%B8%8F&color=00d9ff&style=flat-square" alt="Profile views" />
 </div>
 
-<!-- Animated banner header -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Nikhil%20Ganorkar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DevOps%20%26%20AI%2FML%20Engineer&descAlignY=58&descAlign=50&descSize=20" width="100%" />
-</div>
+<h1 align="center">Hi, I'm Nikhil Ganorkar 👋</h1>
+<h3 align="center">DevOps & AI/ML Engineer · Building Production Agentic Systems</h3>
 
-<!-- Animated typing tagline -->
-<div align="center">
-  <a href="https://github.com/niikkkhiil">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=700&lines=Building+Production+Agentic+Systems+%F0%9F%A4%96;Multi-Agent+Architectures+%7C+RAG+%7C+Observability;CrewAI+%7C+FAISS+%7C+Langfuse+%7C+AWS+%7C+Docker;Open+to+Remote+AI+Engineer+Roles+%F0%9F%8C%8D" alt="Typing tagline" />
-  </a>
-</div>
-
-<br />
+<p align="center">
+  <code>CrewAI</code> · <code>FAISS</code> · <code>Langfuse</code> · <code>AWS</code> · <code>Docker</code> · <code>Open to Remote Roles 🌍</code>
+</p>
 
 <!-- Quick connect buttons -->
 <div align="center">
@@ -90,7 +83,7 @@ class AIEngineer:
 **Stack:** `Python` `CrewAI` `Groq (Llama 3.3 70B)` `FAISS` `Langfuse` `MCP` `Docker` `GitHub Actions`
 
 <div align="center">
-  
+
 [**→ Explore the repo**](https://github.com/niikkkhiil/Orchestrating_agent)
 
 </div>
@@ -178,26 +171,6 @@ Gemini LLM + Chatterbox TTS pipeline for real-time speech synthesis with custom 
 </td>
 </tr>
 </table>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<!-- Using addons-stats which is a reliable alternative to github-readme-stats -->
-<a href="https://github.com/niikkkhiil">
-  <img src="https://github-stats-alpha.vercel.app/api?username=niikkkhiil&cc=1a1b27&tc=00d9ff&ic=00d9ff&bc=00d9ff" />
-</a>
-
-<br /><br />
-
-<!-- Contribution streak via streak-stats with a fallback -->
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=niikkkhiil&theme=tokyonight&hide_border=true&background=1a1b27&stroke=00d9ff&ring=00d9ff&fire=ff6b35&currStreakLabel=00d9ff" height="180" />
-</a>
-
-</div>
 
 ---
 
@@ -299,9 +272,5 @@ I'm always interested in discussing:
 <div align="center">
 
 ### 💭 *"The shift from automation to autonomy is the next frontier in infrastructure engineering."*
-
-<br />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" width="100%" />
 
 </div>
