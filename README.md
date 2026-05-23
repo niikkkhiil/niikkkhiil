@@ -47,7 +47,7 @@ class AIEngineer:
     ]
 
     current_focus = "Autonomous Infrastructure Operations"
-    status        = "🟢 Open to Remote AI Engineer Roles"
+    status        = "Open to Remote AI Engineer Roles"
 
     def what_excites_me(self):
         return [
@@ -90,7 +90,7 @@ class AIEngineer:
 
 ---
 
-## ✅ Recently Shipped
+## Recently Shipped
 
 <table>
 <tr>
