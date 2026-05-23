@@ -75,10 +75,6 @@ class AIEngineer:
 
 *Autonomous Docker container monitoring → AI-powered diagnosis → smart remediation*
 
-<a href="https://github.com/niikkkhiil/Orchestrating_agent">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=niikkkhiil&repo=Orchestrating_agent&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00d9ff&icon_color=00d9ff&text_color=a9b1d6" />
-</a>
-
 </div>
 
 **The pitch:** A multi-agent AI system that watches Docker infrastructure 24/7, reads logs using LLMs, identifies failure types (OOM, port conflicts, disk full, crashes), and applies targeted fixes — eliminating manual remediation entirely.
@@ -93,7 +89,11 @@ class AIEngineer:
 
 **Stack:** `Python` `CrewAI` `Groq (Llama 3.3 70B)` `FAISS` `Langfuse` `MCP` `Docker` `GitHub Actions`
 
+<div align="center">
+  
 [**→ Explore the repo**](https://github.com/niikkkhiil/Orchestrating_agent)
+
+</div>
 
 ---
 
@@ -184,12 +184,19 @@ Gemini LLM + Chatterbox TTS pipeline for real-time speech synthesis with custom 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=niikkkhiil&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00d9ff&icon_color=00d9ff&text_color=a9b1d6&count_private=true&include_all_commits=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niikkkhiil&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00d9ff&text_color=a9b1d6&langs_count=8" height="180" />
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=niikkkhiil&theme=tokyonight&hide_border=true&background=1a1b27&stroke=00d9ff&ring=00d9ff&fire=ff6b35&currStreakLabel=00d9ff" height="180" />
+<!-- Using addons-stats which is a reliable alternative to github-readme-stats -->
+<a href="https://github.com/niikkkhiil">
+  <img src="https://github-stats-alpha.vercel.app/api?username=niikkkhiil&cc=1a1b27&tc=00d9ff&ic=00d9ff&bc=00d9ff" />
+</a>
+
+<br /><br />
+
+<!-- Contribution streak via streak-stats with a fallback -->
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=niikkkhiil&theme=tokyonight&hide_border=true&background=1a1b27&stroke=00d9ff&ring=00d9ff&fire=ff6b35&currStreakLabel=00d9ff" height="180" />
+</a>
+
 </div>
 
 ---
